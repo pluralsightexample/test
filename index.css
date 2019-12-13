@@ -1,0 +1,75 @@
+
+.tables-API table{
+    border: none;
+}
+.tables-API thead {
+    background-color: #4565ae; !important; 
+}
+
+.tables-API tr:nth-child(even) {
+    background-color: #f3f6fd;
+}
+
+.tables-API th{
+    padding: 0.5%;
+    color: white;
+    font-weight: 350;
+    font-size: 12px;
+}
+
+.tables-API td{
+    padding: 0.5%;
+}
+
+
+/* END KO CSS */
+
+
+
+.tables-API{
+    padding: 5%;
+    margin-left: 5%;
+    
+}
+
+/* Second Table */
+
+.tables-target{
+    padding: 1%;
+    margin-left: 1%;
+}
+
+
+thead{
+    background-color: #a047d3; !important; 
+}
+
+
+th{
+    padding: 1%;
+    color: rgb(99, 41, 41);
+    font-weight: 350;
+    font-size: 30px;
+}
+
+
+tr{
+    font-weight: 100;
+    font-size: 20px;
+    color: #1b4420;
+}
+
+
+td{
+    padding: 0.5%;
+}
+
+
+tr:nth-child(even) {
+    background-color: #9bc2a0;
+}
+
+/* Third Table */
+.table-bordered{
+    padding:5%;
+}
